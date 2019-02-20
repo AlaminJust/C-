@@ -1,3 +1,8 @@
+/*
+Problem link : 
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction/practice-problems/algorithm/mehta-and-the-bank-robbery/editorial/
+
+*/
 #include <cstdio>
 #include <cmath>
 #include <iostream>
